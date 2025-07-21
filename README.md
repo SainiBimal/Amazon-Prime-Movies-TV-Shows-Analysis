@@ -29,7 +29,7 @@ Release Year Trends: Peaks in production observed post-2010.
 
 --------------------------------------------
 
-##🎓 Age Certification Analysis
+## 🎓 Age Certification Analysis
 
 Majority of titles fall under TV-MA, PG-13, and Not Rated
 
