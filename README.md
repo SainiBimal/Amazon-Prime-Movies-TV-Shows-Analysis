@@ -155,3 +155,7 @@ Include Power BI dashboard or Streamlit app
 Data Analyst Intern                      
 📧 bimalsaini333@gmail.com              
 🔗 [LinkedIn][https://www.linkedin.com/in/bimalsaini333/] | [GitHub][https://github.com/SainiBimal]
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=SainiBimal&style=flat-square)
+
